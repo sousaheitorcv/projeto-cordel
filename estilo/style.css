@@ -12,6 +12,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    text-align: center;
 }
 
 html, body{
@@ -85,4 +86,5 @@ footer{
     color: white;
     text-align: center;
     padding: 5px;
+    font-size: 0.8em;
 }
